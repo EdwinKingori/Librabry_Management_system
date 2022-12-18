@@ -1,4 +1,4 @@
-# Librabry_Management_system-simplified-
+# Librabry_Management_system-(lab8)
 Data Collections: Mini Project
 I want to create a simple library management system. Let's call it LMS.
 
